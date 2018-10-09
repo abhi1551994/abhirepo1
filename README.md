@@ -1,2 +1,2 @@
 # abhirepo1
-for prsctice
+for practice
